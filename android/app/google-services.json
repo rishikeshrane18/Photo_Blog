@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337840706365",
+    "project_id": "dogneedsyou",
+    "storage_bucket": "dogneedsyou.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337840706365:android:a8f25bb11e84427c3e2b54",
+        "android_client_info": {
+          "package_name": "com.example.restraunt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337840706365-nbo42ohvctj49us5c4360d8vn11eghl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAXLwMNix8lbaFLVq5GGUE_PanJNz70Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337840706365-nbo42ohvctj49us5c4360d8vn11eghl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
