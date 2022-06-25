@@ -1,4 +1,4 @@
-# restraunt_app
+# Photo_Blog
 
 A new Flutter application.
 
